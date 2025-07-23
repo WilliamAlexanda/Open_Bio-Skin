@@ -14,7 +14,7 @@ Hardware of Bio-Skin will be open sourced under the Creative Commons Attribution
 
 Hardware parts include all molds, materials list and code for Esp32. Without software in PC, you can still get the sensor raw data by following this tutorial: https://youtu.be/GShOp8S6hr8
 
-If you want the software which includes super-resolution or GUI, please send a email(haoran.guo@okstate.edu) to get more information.
+If you want the software which includes super-resolution or GUI or have any other questions, please send a email(haoran.guo@okstate.edu) to get more information.
 ## Open Source List
 Hardware folder: including all molds, Sensor PCB and single MUX PCB. All electronic components are directly marked in the figure.
 
