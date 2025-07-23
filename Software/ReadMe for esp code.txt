@@ -13,9 +13,9 @@ temperature and achieve self temperature regulation.
 4 - S3
 5 - Out
 6 - (Default to plug off) Heat
-15 - EN
 GND - GND
 3.3V - Vcc
+3.3V - Vcc2 (For heating function)
 
 2. Connect the Bio-Skin and Mux board by FPC ribbon.
 
