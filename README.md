@@ -16,7 +16,7 @@ Hardware parts include all molds, materials list and code for Esp32. Without sof
 
 If you want the software which includes super-resolution or GUI or have any other questions, please send a email(haoran.guo@okstate.edu) to get more information.
 
-中文制作教程：https://www.bilibili.com/video/BV1KD8Tz4ERr/?vd_source=926d3011b5fb861b3e594afbb977e87a
+中文制作教程：https://www.bilibili.com/video/BV1KD8Tz4ERr/
 ## Open Source List
 Hardware folder: including all molds, Sensor PCB and single MUX PCB. All electronic components are directly marked in the figure.
 
