@@ -23,3 +23,17 @@ Hardware folder: including all molds, Sensor PCB and single MUX PCB. All electro
 Software folder: The code for ESP32-S3, which includes control, sample and data transmission function.
 
 Material list: All the material you need to make the Bio-Skin.
+
+
+## License
+
+This project is released under a split licensing model to ensure both the hardware designs and the software code remain open and reciprocal.
+
+| Component | License | Copyleft Strength | Full Text |
+| :--- | :--- | :--- | :--- |
+| **Hardware Designs** (Schematics, PCB, CAD files) | **CERN Open Hardware Licence v2.0 - Strongly Reciprocal (CERN-OHL-S 2.0)** | Strong | [LICENSE-HARDWARE](./LICENSE-HARDWARE) |
+| **Software** (Firmware, Control Code) | **GNU Affero General Public License v3.0 (AGPLv3)** | Strong (Network Usage) | [LICENSE-SOFTWARE](./LICENSE-SOFTWARE) |
+
+**CERN-OHL-S 2.0:** Requires that any modifications to the hardware design files must also be shared under the same license.
+
+**AGPLv3:** Requires that any changes to the software, even if used only as a network service, must have their source code made available to users.
